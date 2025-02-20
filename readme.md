@@ -1,11 +1,10 @@
-install ollama and use the download deepseek using 
+install ollama and use it to download deepseek-r1 1.5B using 
 
 `ollama run deepseek-r1:1.5b`
 
-the above command also runs deepseek on your terminal so before starting your node.js server make sure it's running 
+go to frontend folder and do a quick  `npm i` and you are all necessary packages
 
-go to frontend folder and do a quick  `npm i` and you are all set now 
+when everything is set just double click start.bat it will open couple terminals 
+in the last terminal ctrl+click the link that pops up in blue.
 
-when everything is set just double click start.bat and in the last termianl that pops up ctrl+click the localhost url
-
-and viola you got your deepseek and a ui running on your pc 
+and viola you got your deepseek on a ui running on your pc.
